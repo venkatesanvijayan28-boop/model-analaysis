@@ -1,0 +1,22 @@
+{
+  "Linear Regression": ["numpy", "pandas", "scikit-learn"],
+  "Logistic Regression": ["numpy", "pandas", "scikit-learn"],
+  "Random Forest": ["numpy", "pandas", "scikit-learn"],
+  "Support Vector Machine": ["numpy", "pandas", "scikit-learn"],
+  "K-Means Clustering": ["numpy", "pandas", "scikit-learn"],
+  "Decision Tree": ["numpy", "pandas", "scikit-learn"],
+
+  "CNN (Deep Learning)": ["tensorflow", "keras", "numpy", "matplotlib"],
+  "RNN (Deep Learning)": ["tensorflow", "keras", "numpy"],
+  "LSTM": ["tensorflow", "keras", "numpy"],
+
+  "Image Processing": ["opencv-python", "numpy", "matplotlib"],
+  "Face Detection": ["opencv-python", "mediapipe", "numpy"],
+
+  "NLP Basic": ["nltk", "scikit-learn", "numpy"],
+  "NLP Advanced": ["spacy", "transformers", "torch"],
+
+  "Data Visualization": ["matplotlib", "seaborn", "plotly"],
+
+  "Deep Learning (PyTorch)": ["torch", "torchvision", "numpy"]
+}
